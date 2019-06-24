@@ -1,0 +1,15 @@
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/database/ConnectionFactory.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/entity/Locador.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/entity/Aviso.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/Start.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/dao/LocadorDAO.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/entity/ContasComunitarias.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/dao/ImovelDAO.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/dao/LocatarioDAO.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/dao/ContaComumDAO.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/entity/Imovel.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/entity/Locatario.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/entity/TipoConta.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/dao/AvisoDAO.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/dao/AluguelDAO.java
+/home/agoliveira/Documentos/Projects/gerenciadorCondominio/src/main/java/br/com/gerenciador/entity/Aluguel.java

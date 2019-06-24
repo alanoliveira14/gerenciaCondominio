@@ -1,0 +1,15 @@
+br/com/gerenciador/entity/Aluguel.class
+br/com/gerenciador/entity/ContasComunitarias.class
+br/com/gerenciador/dao/AvisoDAO.class
+br/com/gerenciador/dao/AluguelDAO.class
+br/com/gerenciador/entity/Locatario.class
+br/com/gerenciador/dao/LocadorDAO.class
+br/com/gerenciador/entity/Aviso.class
+br/com/gerenciador/entity/Imovel.class
+br/com/gerenciador/database/ConnectionFactory.class
+br/com/gerenciador/Start.class
+br/com/gerenciador/entity/Locador.class
+br/com/gerenciador/entity/TipoConta.class
+br/com/gerenciador/dao/ContaComumDAO.class
+br/com/gerenciador/dao/ImovelDAO.class
+br/com/gerenciador/dao/LocatarioDAO.class
