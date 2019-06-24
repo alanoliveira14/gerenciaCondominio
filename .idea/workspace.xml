@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60c58e26-d8ce-45db-964b-6bc2da246266" name="Default Changelist" comment="" />
+    <list default="true" id="60c58e26-d8ce-45db-964b-6bc2da246266" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gerenciadorCondominio-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/gerenciadorCondominio-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +25,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/Start.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/AvisoDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+              <caret line="75" column="148" selection-start-line="75" selection-start-column="148" selection-end-line="75" selection-end-column="148" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/ContaComumDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="1875">
               <caret line="163" selection-start-line="163" selection-end-line="163" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/LocadorDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="75" lean-forward="true" selection-start-line="45" selection-end-line="75" />
+              <caret line="75" selection-start-line="45" selection-end-line="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,12 +97,14 @@
       <find>ERRO AO</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/gerenciador/database/ConnectionFactory.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/gerenciador/entity/ContasComunitarias.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/gerenciador/entity/Imovel.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/gerenciador/entity/Locador.java" />
@@ -102,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/LocadorDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/gerenciador/Start.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/AvisoDAO.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -117,6 +135,7 @@
     <option name="width" value="1366" />
     <option name="height" value="740" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -187,6 +206,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -247,12 +267,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561295969530</updated>
       <workItem from="1561295977792" duration="2799000" />
-      <workItem from="1561310318299" duration="15599000" />
+      <workItem from="1561310318299" duration="17043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18398000" />
+    <option name="totallyTimeSpent" value="19842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,7 +285,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25455928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -276,7 +295,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,7 +303,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294702" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33222038" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3294702" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -332,13 +351,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/entity.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/entity/ContasComunitarias.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -421,17 +433,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/LocadorDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="75" lean-forward="true" selection-start-line="45" selection-end-line="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/ContaComumDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="163" selection-start-line="163" selection-end-line="163" />
+          <caret line="75" selection-start-line="45" selection-end-line="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -451,10 +453,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/AvisoDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+          <caret line="75" column="148" selection-start-line="75" selection-start-column="148" selection-end-line="75" selection-end-column="148" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/gerenciador/dao/ContaComumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
         </state>
       </provider>
     </entry>
